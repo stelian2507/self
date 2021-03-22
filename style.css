@@ -82,5 +82,22 @@ h1 {
   }
   /* section 2 css */
   .section2 {
-      
+      font-size: 1.7em;
+      text-align: center;
   }
+  .section2 img{
+      width: 125px;
+  }
+
+  /* section3 css */
+
+  .section3 {
+      font-size: 1.9em;
+      text-align: center;
+  }
+  .section3 img{
+      width:250px;
+      height:180px;
+  }
+  /* section4 css */
+  
