@@ -21,8 +21,9 @@ h1 {
     font-size: 7em;
   }
   p {
-    color: gray;
-    text-decoration: red wavy underline;
+   font-size: 2em;
+   font-weight: 100;
+   text-align: center;
   }
   .section4{
     background-color: blue;
@@ -64,4 +65,22 @@ h1 {
         background-repeat: no-repeat;
         background-size: cover;
         height: 650px;
+  }
+  /* section1 css */
+  .section1{
+      background-color: rgb(25, 33, 41);
+      color:white;
+  }
+  .section1 a{
+      background-color: blue;
+      color: white;
+      font-family: Roboto Condensed;
+      font-size: 2em;
+      letter-spacing: 0.5px;
+      text-align: center;
+      text-decoration: none;
+  }
+  /* section 2 css */
+  .section2 {
+      
   }
