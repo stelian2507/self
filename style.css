@@ -30,9 +30,11 @@ h1 {
     height: 200px;
   }
   h2{
-      font-size: 5em;
+      font-size: 3.5em;
       align-items: center;
       text-transform: uppercase;
+    color:white;
+    text-shadow: #020819 8px -20px 9px;
   }
   h3{
       font-size: 4,3em;
@@ -47,4 +49,19 @@ h1 {
   h5{
       font-size: 3em;
       line-height: 1em;
+  }
+  nav{
+      background-color:rgb(25, 33, 41);
+  }
+  nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 2em;
+  }
+  header{
+        background-image: url("https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg");
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 650px;
   }
