@@ -133,5 +133,10 @@ h1 {
   .nav-bar-ul{
     width: 1200px;
     margin: 0 auto;
-
   }
+
+  .nav-bar-ul li {
+    list-style-type: none;
+    text-align: center;
+  }
+  
